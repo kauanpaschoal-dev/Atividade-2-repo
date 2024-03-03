@@ -1,35 +1,35 @@
-.orange-card {
-    background-color: #ff7f00;
-    width: 500px;
-    height: 500px;
+.first-card {
+    background-color: #00aeff;
+    width: 370px;
+    height: 600px;
 }
 
-.green-card {
-    background-color: #90ee90;
-    width: 250px;
-    height: 250px;
+.second-card {
+    background-color: #0703e7;
+    width: 750px;
+    height: 100px;
 
 }
 
 .text-card {
-    color: white;
-    background-color: red;
-    font-size: 25px;
-    font-family: monospace;
+    color: rgb(250, 5, 5);
+    background-color: rgb(56, 110, 124);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 
 }
 
-.blue-card {
-    width: 50%;
-    height: 50vh;
-    background-color: #a6dced;
+.third-card {
+    width: 80%;
+    height: 60vh;
+    background-color: #025006;
 
 }
 
-.red-card {
-    width: 75vw;
-    height: 25vh;
-    background-color: red;
+.fourth-card {
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb(238, 255, 0);
 
 }
