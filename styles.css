@@ -1,0 +1,35 @@
+.orange-card {
+    background-color: #ff7f00;
+    width: 500px;
+    height: 500px;
+}
+
+.green-card {
+    background-color: #90ee90;
+    width: 250px;
+    height: 250px;
+
+}
+
+.text-card {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+
+}
+
+.blue-card {
+    width: 50%;
+    height: 50vh;
+    background-color: #a6dced;
+
+}
+
+.red-card {
+    width: 75vw;
+    height: 25vh;
+    background-color: red;
+
+}
